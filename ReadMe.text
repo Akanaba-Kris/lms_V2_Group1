@@ -1,0 +1,30 @@
+STEPS IN RUNNING THE SYSTEM AFTER CONFIGURATION
+
+
+
+1. launch the  XAMPP and click on the first 2 start buttons
+2. go to project folder , that is LOCAL disk C/xampp/htdocs/LMS_v2
+3. right click inside the project folder and click on open git bash here
+4. A black screen will popup, then you type php artisan serve then press enter
+5. go to your browser and type 127.0.0.1:8000 to access the app
+6. click on the scond admin button on the xampp to view your database
+
+
+#ADMIN LOIN
+email     = admin@admin.com
+ password = password    
+
+ #TEACHER LOIN
+email     = atubrago@gmail.com
+ password = password  
+
+#STUDENT LOIN
+email     = charlesmbuut@gmail.com
+ password = password  
+
+Note: Admin can add more teachers and students but be very careful with the permissions and rol buttons. 
+Just leave then linke that, else you could mess your system if you do not understand permission.
+please could it be used on a different laptop?, but we have to host it on your router public ip
+ok, in case he request for that, how do we do that please?, you tell you net host it or configure it on his pc
+so start now, click user manament, then add a user
+please what are the roles for?
